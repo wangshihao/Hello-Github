@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tv">#33B715</color>
+    <color name="tv_black">#383B37</color>
+    <color name="iv">#ffffff</color>
+    <color name="iv_true">#27CBF4</color>
+</resources>
